@@ -1,4 +1,4 @@
-# CS7637_SP24-SemanticNetworks
+# Blocks World Problem w/ Semantic Networks
 
 ## Overview
 This assignment presents an ai agent designed to solve a Difficult Cross-ing - Transportation Problem.  The agent solves for the movements of animals back-and-forth across the river. The end-state is when all animals are on the right bank. The agent adapts a bread-first-search with a scoring for each move.
